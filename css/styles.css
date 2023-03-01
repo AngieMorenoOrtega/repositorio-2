@@ -14,6 +14,7 @@ section{
     border-radius: 60px;
 padding: 10px 50px 20px;
     width:fit-content;
+    margin-top: 1em;
     
 }
 .maincontainer{
@@ -25,6 +26,10 @@ padding: 10px 50px 20px;
     gap: 20px;
     align-items: center;
     justify-content: space-around;
+}
+charizard1 {
+    padding: 1em;
+    justify-content: flex-start;
 }
 /* #llama {
     position:absolute;top: 50px;left: 100px;
