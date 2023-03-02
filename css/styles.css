@@ -12,11 +12,13 @@
     align-items: center;
 
 }
+
 .main {
     display: flex;
     align-items: center;
     justify-content: space-around;
 }
+
 section {
     display: flex;
     background-color: silver;
@@ -26,6 +28,11 @@ section {
     margin-top: 1em;
     align-items: center;
 
+}
+
+h4 {
+    display: flex;
+    background-color: silver;
 }
 
 
@@ -62,10 +69,6 @@ h1 {
     font-size: medium;
 }
 
-footer {
-    margin: 30px;
-}
-
 .footerimages img {
     padding: 30px;
     width: 100%;
@@ -83,12 +86,11 @@ footer {
 .footerimages li {
     float: right;
     margin-left: 120px;
-    width: fit-content;
 
 }
 
 .footerimages {
-    width: fit-content;
+
     background-color: gray;
 
 }
